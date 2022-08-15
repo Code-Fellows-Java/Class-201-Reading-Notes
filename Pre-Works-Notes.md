@@ -35,17 +35,35 @@ HTML attributes provide additional information about HTML elements.
 
 The main parts of our element are as follows: The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the paragraph begins.
 
-- What is the Difference between <article> and <section> element tags?
+- What is the Difference between article and section element tags?
   
-  The <section> tag defines a section in a document. The <article> tag specifies independent, self-contained content.
+  The section tag defines a section in a document. The article tag specifies independent, self-contained content.
 - What Elements does a “typical” website include?
   
   header, navigation bar, main content, sidebar, footer.
 - How does metadata influence Search Engine Optimization?
   
   Using metadata boosts your SEO efforts because it's written in the search engine's language. This helps search engines better understand the topic of your webpages and content. It also helps them display more relevant results to searchers
-- How is the <meta> HTML tag used when specifying metadata? 
+- How is the meta HTML tag used when specifying metadata? 
   
-  The <meta> tag defines metadata about an HTML document. Metadata is data (information) about data. <meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+  The meta tag defines metadata about an HTML document. Metadata is data (information) about data. meta tags always go inside the head element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+  
+  ## How to start to design a Website.
+  
+  - The First step is knowing what your end goal is. Then you can begin the foundation needed to accomplish that goal
+  - The most important question to ask is "Does it work?"
+
+  ## Semantics.
+  
+  - Span is an inline element. The h1 is a block element. The inline element cannot contain a block element. Elements cannot be partially contained by other elements
+  - makes web pages more informative and adaptable, allowing browsers and search engines to better interpret content
+
+  ## What is JavaScript?
+  
+  - JavaScript is Required to create interactive web pages.
+  - You can add JavaScript code in an HTML document by employing the dedicated HTML tag <script> that wraps around JavaScript code. The <script> tag can be placed in the <head> section of your HTML or in the <body> section, depending on when you want the JavaScript to load.
+
+
   
   ## Things I Want To Know More About
+  - Everything...
