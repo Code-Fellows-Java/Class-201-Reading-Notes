@@ -11,7 +11,7 @@ I was born and raised in Nashville, TN. I was a paratrooper in the army for almo
 
 **Table of Contents**
 - [PreWork](Pre-Works-Notes.md)
--
+- [Class 01](Class-01.md)
 -
 -
 -
