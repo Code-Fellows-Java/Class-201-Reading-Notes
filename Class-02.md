@@ -53,7 +53,7 @@ var result = wierdProb.call(this,a ,b , c);
 
 console.log(result);
 
-The answer is 10dog I checked.
+### The answer is 10dog I checked.
 - Describe a real world example of when a conditional statement should be used in a JavaScript program.
 
 Allowing a certain time be reached before turning on an alarm.
