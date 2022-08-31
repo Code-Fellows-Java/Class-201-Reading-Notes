@@ -22,7 +22,7 @@ I was born and raised in Nashville, TN. I was a paratrooper in the army for almo
 - [Class 09](Class-09.md)
 - [Class 10](Class-10.md)
 - [Class 11](Class-11.md)
--
+- [Class 12](Class-12.md)
 -
 -
 -
